@@ -230,8 +230,7 @@ import { siteData } from '../data/site.ts';
   // WhatsApp Form Handler
   document.addEventListener('DOMContentLoaded', function() {
     const form = document.getElementById('whatsappForm');
-    const whatsappNumber = '5551990173265
-'; // Updated WhatsApp number
+    const whatsappNumber = '${siteData.company.whatsapp}'; // Número WhatsApp centralizado
     
     if (!form) return;
     
