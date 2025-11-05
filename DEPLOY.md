@@ -1,4 +1,4 @@
-# Guia de Deploy - TourLive Brasil
+# Guia de Deploy - MKT Soluções
 
 ## 🚀 Opções de Deploy
 
@@ -9,7 +9,7 @@
 1. **Conectar repositório**:
    - Acesse [vercel.com](https://vercel.com)
    - Conecte sua conta GitHub
-   - Importe o repositório `tourlivebrasil`
+   - Importe o repositório `mktsolucoes`
 
 2. **Configuração automática**:
    ```json
@@ -23,7 +23,7 @@
 
 3. **Variáveis de ambiente** (se necessário):
    ```bash
-   PUBLIC_SITE_URL=https://tourlivebrasil.vercel.app
+   PUBLIC_SITE_URL=https://mktsolucoes.vercel.app
    ```
 
 #### Deploy Manual

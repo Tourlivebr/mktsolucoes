@@ -1,4 +1,4 @@
-# Guia de Desenvolvimento - TourLive Brasil
+# Guia de Desenvolvimento - MKT Soluções
 
 ## 🚀 Início Rápido
 
@@ -15,7 +15,7 @@
    ```bash
    # Clonar repositório
    git clone [url-do-repositorio]
-   cd tourlivebrasil
+   cd mktsolucoes
    
    # Instalar dependências
    npm install

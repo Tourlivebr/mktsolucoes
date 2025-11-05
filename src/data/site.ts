@@ -230,7 +230,7 @@ export const siteData = {
       name: "Rodrigo Santos",
       role: "Agencia de Viagens",
       company: "Partiu Viagem",
-      comment: "O site desenvolvido pela TourLive transformou a presença digital da nossa agência. Agora nossos clientes encontram facilmente os pacotes, tiram dúvidas pelo WhatsApp e fazemos mais vendas online. Foi um investimento que trouxe resultados reais.",
+      comment: "O site desenvolvido pela MKT Soluções transformou a presença digital da nossa agência. Agora nossos clientes encontram facilmente os pacotes, tiram dúvidas pelo WhatsApp e fazemos mais vendas online. Foi um investimento que trouxe resultados reais.",
       avatar: "/images/testimonials/rodrigo_santos.png",
       rating: 5
     },
@@ -239,7 +239,7 @@ export const siteData = {
       name: "Roberta Rauber",
       role: "Gerente de Marketing",
       company: "Garden Park Gramado",
-      comment: "O Mapa Interativo desenvolvido pela TourLive trouxe uma nova experiência para o Garden Park. Os visitantes agora exploram cada percurso com mais facilidade, aproveitam melhor as atrações e passam mais tempo no parque.",
+      comment: "O Mapa Interativo desenvolvido pela MKT Soluções trouxe uma nova experiência para o Garden Park. Os visitantes agora exploram cada percurso com mais facilidade, aproveitam melhor as atrações e passam mais tempo no parque.",
       avatar: "/images/testimonials/roberta.png",
       rating: 5
     },
@@ -248,7 +248,7 @@ export const siteData = {
       name: "Rafael Castelli",
       role: "Secretário de Turismo",
       company: "São Francisco de Paula RS",
-      comment: "Com o portal de turismo desenvolvido pela TourLive, São Chico ganhou mais visibilidade e organização digital. Os visitantes encontram facilmente atrativos, hospedagens e eventos, o que fortalece o turismo local e movimenta toda a economia do município.",
+      comment: "Com o portal de turismo desenvolvido pela MKT Soluções, São Chico ganhou mais visibilidade e organização digital. Os visitantes encontram facilmente atrativos, hospedagens e eventos, o que fortalece o turismo local e movimenta toda a economia do município.",
       avatar: "/images/testimonials/rafael.png",
       rating: 5
     }

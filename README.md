@@ -1,8 +1,8 @@
-# TourLive Brasil - Turismo Interativo
+# MKT Soluções - Estratégias Digitais
 
 ## 📋 Visão Geral
 
-O TourLive Brasil é uma plataforma de turismo interativo que oferece mapas inteligentes com guia falante, sites comerciais e portais de destinos turísticos. A solução combina tecnologia moderna com storytelling local para criar experiências únicas que conectam visitantes com a essência de cada destino.
+A MKT Soluções é uma empresa de estratégias digitais que oferece sites comerciais, aplicativos, portais e soluções de marketing para presença digital completa. Unimos tecnologia moderna e performance para conectar empresas e clientes e gerar resultados reais.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -15,7 +15,7 @@ O TourLive Brasil é uma plataforma de turismo interativo que oferece mapas inte
 ## 📁 Estrutura do Projeto
 
 ```
-tourlivebrasil/
+mktsolucoes/
 ├── public/                    # Arquivos estáticos
 │   ├── favicon.svg
 │   └── images/               # Imagens do projeto
@@ -75,7 +75,7 @@ tourlivebrasil/
 ```bash
 # Clone o repositório
 git clone [url-do-repositorio]
-cd tourlivebrasil
+cd mktsolucoes
 
 # Instale as dependências
 npm install
@@ -105,15 +105,13 @@ O arquivo `src/data/site.ts` contém todas as informações estruturadas:
 ### Dados da Empresa
 ```typescript
 company: {
-  name: "TourLive - Turismo Interativo Ltda",
-  tagline: "Tecnologia que transforma destinos em experiências guiadas",
-  phone: "+5551990173265
-",
-  whatsapp: "5551990173265
-",
-  email: "tourlivebr@gmail.com",
-  address: "Rua Bernardino Timóteo da Fonseca, 678 - Vila Boeira",
-  city: "Canela, RS - Brasil"
+  name: "MKT Soluções - Estratégias Digitais",
+  tagline: "Tecnologia que transforma negócios em experiências digitais",
+  phone: "51 99017-3265",
+  whatsapp: "5551990173265",
+  email: "contato@mktsolucoes.com.br",
+  address: "R. Cassino, 119 - Ipanema",
+  city: "Porto Alegre, RS - Brasil"
 }
 ```
 

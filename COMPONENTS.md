@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este documento detalha todos os componentes do projeto TourLive Brasil, suas funcionalidades, props e estrutura.
+Este documento detalha todos os componentes do projeto MKT Soluções, suas funcionalidades, props e estrutura.
 
 ## 🏗️ Layout Principal
 
@@ -27,7 +27,7 @@ Este documento detalha todos os componentes do projeto TourLive Brasil, suas fun
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="TourLive Brasil">
+<Layout title="MKT Soluções">
   <!-- Conteúdo da página -->
 </Layout>
 ```
