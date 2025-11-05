@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Footer from '../components/Footer.astro';
+import { siteData } from '../data/site.ts';
 
 // SEO Data
 const title = 'Site para Casa por Temporada | TourLive Brasil';
@@ -160,8 +161,7 @@ const image = '/images/hero-2.jpg';
           <script>
             document.addEventListener('DOMContentLoaded', function() {
               const form = document.getElementById('contactFormRental');
-              const whatsappNumber = '5551990173265
-';
+              const whatsappNumber = '${siteData.company.whatsapp}';
               if (!form) return;
               form.addEventListener('submit', function(e) {
                 e.preventDefault();
